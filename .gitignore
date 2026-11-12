@@ -3,6 +3,7 @@ venv/
 __pycache__/
 *.pyc
 .env
+config.py
 instance/
 .idea/
 *.db
